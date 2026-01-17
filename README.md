@@ -80,7 +80,7 @@ Seguir desarrollando proyectos web cada vez más sólidos, profundizar en framew
 
 <p align="center">
   <img 
-    src="images/Portada VMz-Dev.jpg" 
+    src="images/portada.png" 
     height="250"
     style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,.25);"
   >
