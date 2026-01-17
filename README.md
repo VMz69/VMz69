@@ -9,7 +9,11 @@
  
 <!-- <img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamR1NmlodzNnbms1bnduZGU2YmJsMmI5czQwNHhwcmkybHdnYnd0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" align="right"/> -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" style="max-width:320px; width:100%;">
+</p>
+
 
 👨‍💻 &nbsp;Soy **desarrollador web en formación** y estudiante universitario, enfocado en crear proyectos web funcionales, claros y bien estructurados.\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y aplicarlas en proyectos reales y académicos.\
