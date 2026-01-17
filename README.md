@@ -4,7 +4,7 @@ Soy **desarrollador web en formación** y estudiante universitario.
 Me enfoco en construir **proyectos funcionales, claros y bien estructurados**, aplicando buenas prácticas y tecnologías web modernas.
 
 🌐 Portafolio: https://vmz-dev.netlify.app/  
-💼 LinkedIn: (tu link)  
+💼 LinkedIn: https://www.linkedin.com/in/vmz69/ 
 
 ---
 
@@ -64,5 +64,5 @@ Seguir desarrollando proyectos web cada vez más sólidos, profundizar en framew
 
 ## 📫 Contacto
 
-- Portafolio: https://vmz-dev.netlify.app/  
-- LinkedIn: (tu link)  
+- Correo: viemvema@gmail.com
+- correo alterno: v.emmanuel_vm@hotmail.com
