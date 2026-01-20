@@ -21,7 +21,7 @@
 🌱 &nbsp;En este momento estoy reforzando JavaScript y aprendiendo más a fondo Angular y React, sin descuidar mis bases en backend y bases de datos.\
 ✍️ &nbsp;En mi tiempo libre desarrollo proyectos personales, mejoro mi portafolio y experimento con nuevas herramientas.\
 💬 &nbsp;Puedes escribirme si te interesa colaborar, proponer un proyecto o simplemente hablar de tecnología.\
-✉️ &nbsp;Puedes contactarme por correo o LinkedIn: viemvema@gmail.com | https://www.linkedin.com/in/vmz69/ .\
+✉️ &nbsp;Puedes contactarme por correo o LinkedIn: viemvema@gmail.com | www.linkedin.com/in/victorvelasco-dev .\
 📄 &nbsp;Te invito a ver mi portafolio web y mis proyectos aquí: https://vmz-dev.netlify.app/ 
 
 <br>
@@ -97,7 +97,7 @@ Seguir desarrollando proyectos web cada vez más sólidos, profundizar en framew
 ## 📫 Contacto
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vmz69/"><img src="https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin" alt="Badge"></a>
+<a href="www.linkedin.com/in/victorvelasco-dev"><img src="https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin" alt="Badge"></a>
 <a href="mailto:viemvema@gmail.com"><img src="https://img.shields.io/badge/gmail--red?style=for-the-badge&logo=gmail" alt="Badge"></a>
 <a href="mailto:v.emmanuel_vm@hotmail.com"><img src="https://img.shields.io/badge/outlook--blue?style=for-the-badge&logo=maildotru" alt="Badge"></a>
 </p>
